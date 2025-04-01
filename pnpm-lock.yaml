@@ -13,7 +13,7 @@ importers:
         version: 1.9.4
       '@tiptap/core':
         specifier: ^2.10.3
-        version: 2.11.5(@tiptap/pm@2.11.7)
+        version: 2.11.7(@tiptap/pm@2.11.7)
       '@tiptap/pm':
         specifier: ^2.10.3
         version: 2.11.7
@@ -364,8 +364,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@tiptap/core@2.11.5':
-    resolution: {integrity: sha512-jb0KTdUJaJY53JaN7ooY3XAxHQNoMYti/H6ANo707PsLXVeEqJ9o8+eBup1JU5CuwzrgnDc2dECt2WIGX9f8Jw==}
+  '@tiptap/core@2.11.7':
+    resolution: {integrity: sha512-zN+NFFxLsxNEL8Qioc+DL6b8+Tt2bmRbXH22Gk6F6nD30x83eaUSFlSv3wqvgyCq3I1i1NO394So+Agmayx6rQ==}
     peerDependencies:
       '@tiptap/pm': ^2.7.0
 
@@ -1011,7 +1011,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.38.0':
     optional: true
 
-  '@tiptap/core@2.11.5(@tiptap/pm@2.11.7)':
+  '@tiptap/core@2.11.7(@tiptap/pm@2.11.7)':
     dependencies:
       '@tiptap/pm': 2.11.7
 
