@@ -59,7 +59,7 @@
     "@biomejs/biome": "1.9.4",
     "@tiptap/core": "^2.10.3",
     "@tiptap/pm": "^2.10.3",
-    "@types/node": "^22.10.1",
+    "@types/node": "^24.0.8",
     "tsup": "^8.3.5",
     "typescript": "^5.7.2",
     "ultracite": "4.2.0"
